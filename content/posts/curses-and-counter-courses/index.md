@@ -1,6 +1,7 @@
 ---
+layout: blog
 title: "Curses and Counter-curses (Bewitch Your Friends and Befuddle Your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying, and Much, Much More)"
-date: 2019-10-25
+date: 1999-12-31 11:59:59 -0800
 slug: "/curses-counter-curses-and-more"
 ---
 
